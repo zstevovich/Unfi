@@ -3,7 +3,6 @@
 
 namespace SCH\Unfi;
 
-
 use SCH\Unfi\Entity\Attribute;
 use SCH\Unfi\Entity\Image;
 use SCH\Unfi\Entity\Inventory;

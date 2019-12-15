@@ -2,7 +2,7 @@
   "name": "sch/unfi",
   "description": "Unfi Integration. Synchronization products by Unfi Product Feed, send order to Honest Green by Unfi",
   "type": "library",
-  "keywords": ["Unfi integration"],
+  "keywords": ["Unfi integration","Honest Green","Unfi"],
   "license": "MIT",
   "authors": [
     {

@@ -1,7 +1,6 @@
 <?php declare (strict_types = 1);
 
 namespace SCH\Unfi;
-
 use SCH\Unfi\Entity\Order;
 use SCH\Unfi\Entity\OrderProduct;
 
