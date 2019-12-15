@@ -51,7 +51,7 @@ class Request
      * @return Response
      * @throws UnfiException
      */
-    public function RequestAPI($page = 1, $limit = 2000): Response
+    public function RequestAPI($page = 1, $limit = 1000): Response
     {
         $client = new Client(
             [
