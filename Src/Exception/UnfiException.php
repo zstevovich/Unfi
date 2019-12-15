@@ -1,7 +1,7 @@
 <?php declare (strict_types = 1);
 
 
-namespace Infogram\Unfi\Exception;
+namespace SCH\Unfi\Exception;
 
 use Exception;
 
