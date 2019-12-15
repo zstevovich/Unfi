@@ -2,6 +2,7 @@
 
 namespace SCH\Unfi;
 
+use phpseclib\Net\SFTP;
 use SCH\Unfi\Entity\Product;
 use SCH\Unfi\Exception\UnfiException;
 use Exception;

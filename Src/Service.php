@@ -22,7 +22,7 @@ class Service
 
     public static function createTempFile(array $orderData, array $productData) : string
     {
-        $filename = generateRandomString().'.txt';
+        $filename = uniqid().'.txt';
         $tmp = sys_get_temp_dir().DIRECTORY_SEPARATOR.$filename;
         $fp = fopen($tmp, 'w');
         for ($i = 0; $i < count($orderData); $i++) {

@@ -95,9 +95,8 @@ class Response
                 $size->setWeight($product->Weight);
                 $size->setWidth($product->Width);
                 $productEntity->setSize($size);
-                if ($productEntity->getImages()){
-                    $products[] = $productEntity;
-                }
+                $products[] = $productEntity;
+
 
             }
         }
