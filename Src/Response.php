@@ -1,15 +1,15 @@
 <?php declare (strict_types = 1);
 
 
-namespace Infogram\Unfi;
+namespace SCH\Unfi;
 
 
-use Infogram\Unfi\Entity\Attribute;
-use Infogram\Unfi\Entity\Image;
-use Infogram\Unfi\Entity\Inventory;
-use Infogram\Unfi\Entity\Product;
-use Infogram\Unfi\Entity\Size;
-use Infogram\Unfi\Exception\UnfiException;
+use SCH\Unfi\Entity\Attribute;
+use SCH\Unfi\Entity\Image;
+use SCH\Unfi\Entity\Inventory;
+use SCH\Unfi\Entity\Product;
+use SCH\Unfi\Entity\Size;
+use SCH\Unfi\Exception\UnfiException;
 
 class Response
 {

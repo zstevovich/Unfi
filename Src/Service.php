@@ -1,9 +1,9 @@
 <?php declare (strict_types = 1);
 
-namespace Infogram\Unfi;
+namespace SCH\Unfi;
 
-use Infogram\Unfi\Entity\Order;
-use Infogram\Unfi\Entity\OrderProduct;
+use SCH\Unfi\Entity\Order;
+use SCH\Unfi\Entity\OrderProduct;
 
 class Service
 {
