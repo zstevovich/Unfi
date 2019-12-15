@@ -1,5 +1,5 @@
 {
-  "name": "infogram/unfi",
+  "name": "sch/unfi",
   "description": "Unfi Integration",
   "type": "library",
   "keywords": ["Unfi integration"],
@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Infogram\\Unfi\\": "Src"
+      "SCH\\Unfi\\": "Src"
     }
   },
   "require": {
