@@ -1,9 +1,9 @@
 <?php declare (strict_types = 1);
 
-namespace Infogram\Unfi;
+namespace SCH\Unfi;
 
-use EAI\Suppliers\Unfi\Entity\Product;
-use EAI\Suppliers\Unfi\Exception\UnfiException;
+use SCH\Unfi\Entity\Product;
+use SCH\Unfi\Exception\UnfiException;
 use Exception;
 
 class Unfi extends BaseUnfi

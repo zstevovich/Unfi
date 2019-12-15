@@ -1,7 +1,7 @@
 <?php declare (strict_types = 1);
 
 
-namespace Infogram\Unfi\Entity;
+namespace SCH\Unfi\Entity;
 
 
 class Order
