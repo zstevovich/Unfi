@@ -12,7 +12,7 @@ $ composer require sch/unfi
 #### OR add package
 ```
  "require": {
-        "sch/unfi": "^1.0.*",
+        "sch/unfi": "1.1.*",
         ...
     },
 ```
