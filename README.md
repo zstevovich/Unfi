@@ -6,28 +6,14 @@
 
 ### Installation
 
-Install the dependencies and devDependencies in your composer.json.
-
-#### Composer.json
-
-
-#### Add custom repository - get https clone url
-```
-"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/zstevovich/Unfi.git"
-        }
-],
-```
 #### Install by composer
-```sh
-$ composer require sch/unfi ^1.0@dev
+```
+$ composer require sch/unfi
 ```
 #### OR add package
 ```
  "require": {
-        "sch/unfi": "^1.0@dev",
+        "sch/unfi": "^1.0.*",
         ...
     },
 ```
