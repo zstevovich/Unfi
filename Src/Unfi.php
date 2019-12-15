@@ -1,7 +1,6 @@
 <?php declare (strict_types = 1);
 
 namespace SCH\Unfi;
-
 use phpseclib\Net\SFTP;
 use SCH\Unfi\Entity\Product;
 use SCH\Unfi\Exception\UnfiException;

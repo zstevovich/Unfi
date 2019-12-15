@@ -1,6 +1,5 @@
 <?php declare (strict_types = 1);
 
-
 namespace SCH\Unfi;
 
 use SCH\Unfi\Exception\UnfiException;
