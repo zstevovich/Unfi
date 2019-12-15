@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Infogram\\Unfi\\": "Src/Unfi"
+      "Infogram\\Unfi\\": "Src"
     }
   },
   "require": {
