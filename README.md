@@ -1,4 +1,4 @@
-# infogram/unfi
+# sch/unfi
 
  ![](https://img.shields.io/badge/version-v1.0.*-green.svg)
  ![](https://img.shields.io/badge/php-%5E7.3-blue.svg?logo=php&logoColor=white)
@@ -22,12 +22,12 @@ Install the dependencies and devDependencies in your composer.json.
 ```
 #### Install by composer
 ```sh
-$ composer require infogram/Unfi ^1.0@dev
+$ composer require sch/unfi ^1.0@dev
 ```
 #### OR add package
 ```
  "require": {
-        "infogram/unfi": "^1.0@dev",
+        "sch/unfi": "^1.0@dev",
         ...
     },
 ```
