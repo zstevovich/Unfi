@@ -1,0 +1,34 @@
+{
+  "name": "infogram/unfi",
+  "description": "Unfi Integration",
+  "type": "library",
+  "keywords": ["Unfi integration"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zoran Stevovic",
+      "email": "zstevovich@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Infogram\\Unfi\\": "Src/Unfi"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "phpseclib/phpseclib": "^2.0"
+  },
+  "require-dev": {
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.0-dev"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
