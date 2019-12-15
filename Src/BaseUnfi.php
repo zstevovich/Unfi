@@ -36,5 +36,5 @@ abstract class BaseUnfi
 
     abstract function sendOrderToServer(string $output, string $inventory);
     abstract function getProducts($page = 1, $limit = 1000);
-    abstract function getInfo($limit = 2000);
+    abstract function getInfo($limit = 1000);
 }

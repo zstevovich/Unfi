@@ -8,14 +8,6 @@ use GuzzleHttp\Exception\ClientException;
 use phpseclib\Net\SFTP;
 use GuzzleHttp\Client;
 
-/*
- * define('API_KEY', config('supplier.unfi.key','bf32ab7e091c45cda83446b0d75a6d12'));
- * define('SFTP_USER_NAME', config('supplier.sftp.username','johnmwesigwa@gmail.com'));
- * define('SFTP_PASSWORD', config('supplier.sftp.password','summer@2019'));
- * define('STAGING', config('supplier.staging',true));
- * define('ENABLED', config('supplier.enabled',false));
- */
-
 define('END_POINT_API', 'https://unfi.azure-api.net/api/product');
 define('SFTP_TEST', 'sftp://uat-edi.unfi.com');
 define('SFTP_PRODUCTION', 'sftp://edi.unfi.com');
